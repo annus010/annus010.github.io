@@ -2,4 +2,6 @@
 
 Bilingual academic homepage: https://annus010.github.io
 
-Edit index.html to update the English and Chinese text. Use the small 中 / EN button to switch languages. The two project figures are reused from https://kbaijin.github.io/ as requested. The UCAS logo is embedded in the HTML.
+Edit index.html for content, dates and translations. The 中 / EN button retains language choice. Project figures and institution emblems are served from PNG files alongside index.html.
+
+Research focus: physical hydrological modeling, spatiotemporal learning, scientific agents, climate–agriculture analysis and resilience.
